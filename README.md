@@ -1,6 +1,6 @@
 # Library Management System
 
-Live Link
+Live Link (Check out screenshots till the website is live)
 
 A full-stack web application for managing library operations efficiently.
 
