@@ -8,11 +8,15 @@ A full-stack web application for managing library operations efficiently.
 
 ### User Features
 - View book details including quantity status
+- Admin Homepage![Admin Homepage](screenshots/admin-homepage.png)
+- User Homepage ![User Homepage](screenshots/user-homepage.png)
 - Track borrowed books and issued dates
-- User authentication - users can't add or update or delete , only view and borrow/return
+- User authentication - users can't add or update or delete , only view and borrow/return ![](screenshots/individual-book-page.png)
+- However , admin can also edit/delete ![](screenshots/edit-page.png)
+- Sign-in and register page ![](screenshots/sign-in-page.png)
 
 ### Admin Features
-- Dashboard with library analytics
+- Dashboard with library analytics ![](screenshots/dashboard-and-addBook.png)
 - Manage book inventory (add, edit, delete)
 - For adding a book , go to Dashboard
 - Track book borrowings and returns
